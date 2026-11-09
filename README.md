@@ -2,6 +2,12 @@
 
 An S8UL-branded Shopify Online Store 2.0 theme, converted from the storefront prototype in this project. The work keeps the S8UL jersey, brand colours, campaign imagery, and written content while adapting the page layouts and interaction direction to the supplied Sixes Cricket reference.
 
+## Live preview
+
+[Open the S8UL storefront preview](https://0x-ryo.github.io/s8ul-shopify-theme/)
+
+This GitHub Pages version is a static visual prototype. The Shopify theme ZIP is the version intended for Shopify; real customer accounts, checkout, payments, inventory, and orders require deployment to the store’s Shopify account.
+
 ## Source websites
 
 - Original S8UL store: https://s8ul.club/
