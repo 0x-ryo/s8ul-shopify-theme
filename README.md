@@ -11,8 +11,6 @@ This GitHub Pages version is a static visual prototype. The Shopify theme ZIP is
 ## Source websites
 
 - Original S8UL store: https://s8ul.club/
-- Design and interaction reference: https://sixescricket.com/
-- S8UL brand colour reference: https://s8ul.live/
 
 The S8UL store and brand sites are references for the original store, merchandise, logos, colour palette, and content. Sixes Cricket is the UI/UX inspiration. This project does not reproduce Sixes branding or content.
 
