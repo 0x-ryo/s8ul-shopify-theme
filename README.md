@@ -13,7 +13,7 @@ The S8UL store and brand sites are references for the original store, merchandis
 ## What is included
 
 - Shopify theme ZIP: S8UL-Shopify-Theme.zip
-- Setup and launch checklist: SHOPIFY_SETUP.md
+- Setup and launch checklist: Shopify-Theme-Setup.md
 - Online Store 2.0 JSON templates and editable Liquid sections for Home, Shop, Jersey, Size Guide, Your Bag, Player Access, Contact Us, and policy pages.
 - Responsive S8UL header, navigation drawer, footer, campaign hero video, jersey product views, size chart, cart quantity controls, newsletter signup, and background pattern.
 - Shopify-native product/variant selection, cart, checkout, customer sign-in, and customer order data. The theme does not implement its own database or payment processing.
@@ -24,5 +24,5 @@ The existing storefront pages were used as the source for the S8UL visual identi
 
 ## Before deployment
 
-Upload the ZIP as an unpublished theme, set the featured jersey product, assign the included templates to the corresponding Shopify pages, configure the account menu and support/social links, and verify checkout and customer sign-in in a preview. See SHOPIFY_SETUP.md for the checklist. The theme has not been connected to or published on the live S8UL store.
+Upload the ZIP as an unpublished theme, set the featured jersey product, assign the included templates to the corresponding Shopify pages, configure the account menu and support/social links, and verify checkout and customer sign-in in a preview. See Shopify-Theme-Setup.md for the checklist. The theme has not been connected to or published on the live S8UL store.
 
